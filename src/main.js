@@ -4,7 +4,7 @@ import Counter from './Counter';
 
 document.addEventListener('DOMContentLoaded', function() {
     ReactDOM.render(
-      ReactDOM.createElement(Counter),
-      document.getElementById('mount')
+        React.createElement(Counter),
+        document.getElementById('mount')
     );
 });

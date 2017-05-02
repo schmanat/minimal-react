@@ -1,6 +1,6 @@
 {
     "presets": [
-        ["latest", {"module": false}],
+        ["latest", { "modules": false }],
         "react"
     ]
 }
